@@ -13,7 +13,7 @@ export const Bio = {
       "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/risini-amarathunga/",
     twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
+    insta: "https://www.instagram.com/_risini.r_/",
     facebook: "https://www.facebook.com/rishav.chanda.165/",
   };
   
