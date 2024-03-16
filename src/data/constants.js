@@ -8,7 +8,7 @@ export const Bio = {
     ],
     description:
       "Passionate Software Engineering student with a strong interest in leveraging technology to solve real-world problems. Currently pursuing my undergraduate degree with a focus on IT industry at University of Plymouth (NSBM Affiliated) | UK , I am dedicated to expanding my knowledge and skills in software development. With a keen eye for detail and a proactive approach to learning, I am enthusiastic about exploring new technologies and methodologies. Eager to collaborate with like-minded individuals and contribute meaningfully to innovative projects, I am driven by a desire to make a positive impact through technology.",
-    github: "https://github.com/rishavchanda",
+    github: "https://github.com/Rizz-33",
     resume:
       "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
