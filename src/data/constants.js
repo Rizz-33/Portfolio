@@ -7,7 +7,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "Passionate Software Engineering student with a strong interest in leveraging technology to solve real-world problems. Currently pursuing my undergraduate degree with a focus on IT industry at University of Plymouth (NSBM Affiliated) | UK , I am dedicated to expanding my knowledge and skills in software development. With a keen eye for detail and a proactive approach to learning, I am enthusiastic about exploring new technologies and methodologies. Eager to collaborate with like-minded individuals and contribute meaningfully to innovative projects, I am driven by a desire to make a positive impact through technology.",
     github: "https://github.com/rishavchanda",
     resume:
       "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
